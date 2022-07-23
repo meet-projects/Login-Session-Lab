@@ -12,7 +12,7 @@ In today's lab, you'll only work with and edit one main Python file and 2 templa
 
 1. Add a form to `home.html`! Take in a quote, the quote's author, and the author's age.
 
-2. When the form is submitted, store the form's information in `login_session`.
+2. When the form is submitted, store the form's information in `login_session`, example: `login_session['age'] = age`.
 
 3. Display `thanks.html` if the form's information is successfully submitted and stored.
 
